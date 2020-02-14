@@ -2,3 +2,4 @@ selaaaaam
 naber
 iyi misin
 selamlar
+x = 3
